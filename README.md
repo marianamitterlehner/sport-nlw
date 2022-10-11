@@ -20,33 +20,18 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina `Windows / Linux / Mac`, ele é compativel em todas.
 
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando <nlw-sport>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
-
-Linux e macOS:
-```
-<comando_de_instalação>
-```
+Para instalar o <nlw-sport>, siga estas etapas:
 
 Windows:
 ```
-<comando_de_instalação>
+< 
+  npm install
+  npm run dev
+  npm run build
+>
 ```
 
-## ☕ Usando <nlw-sports>
 
-Para usar <nlw-sports>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
-
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#nlw-sport)<br>
